@@ -24,4 +24,4 @@ Kurssin virallinen sivu: [CS50 Web Programming with Python and JavaScript](https
 
 Jokainen kansio sisältää yhden harjoituksen tai projektin.  
 Koodia voi suorittaa paikallisesti tai GitHub Codespaces -ympäristössä.
-
+Tekstiä voi lisätä tänne.
